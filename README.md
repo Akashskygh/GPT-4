@@ -1,0 +1,1 @@
+This Python script creates a Chat Assistant class that utilizes the OpenAI API to generate conversational responses based on given messages. It simulates a conversation loop between a user and an AI assistant.
